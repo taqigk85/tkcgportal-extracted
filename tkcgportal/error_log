@@ -1,0 +1,1 @@
+[19-Feb-2025 07:31:47 UTC] PHP Fatal error:  Trait "App\Models\HasRoles" not found in /home2/dev4projctst/public_html/tkcgportal/app/Models/User.php on line 11
